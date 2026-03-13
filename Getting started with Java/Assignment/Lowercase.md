@@ -6,19 +6,19 @@ You are provided with a sentence in all upper case. Your task is to convert it i
 
 **Note: Use the inbuilt method provided under the wrapper class for String.**
 
-### Instructions
+## Instructions
 
 1. We have already declared a sentence in upper case.
 
 2. You have to convert it into lower case and print it.
 
-### Detailed Explanation
+## Detailed Explanation
 
-#### Input format
+### Input format
 
 The first line of the input contains a sentence in upper case.
 
-#### Output format
+### Output format
 
 The first line of the output should print the sentence in lower case.
 

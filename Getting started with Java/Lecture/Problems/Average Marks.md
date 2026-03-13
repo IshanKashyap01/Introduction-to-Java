@@ -5,7 +5,7 @@
 Given three integers, a, b and c. Create a program that calculates their
 average and prints the result.
 
-### Instructions
+## Instructions
 
 1. Declare an integer variable named sum and calculate the sum of the three
 integers a, b, and c by adding them together.
@@ -13,15 +13,15 @@ integers a, b, and c by adding them together.
 2. Declare an int variable named average and calculate the average by dividing
 the sum by 3 (the number of integers).
 
-### Detailed Explanation
+## Detailed Explanation
 
-#### Input format
+### Input format
 
 The first line of the input contains an integer "a".
 The Second line of the input contains an integer "b".
 The Third line of the input contains an integer "c ".
 
-#### Output format
+### Output format
 
 The first line of the output should print the average.
 

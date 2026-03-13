@@ -14,14 +14,14 @@ be anything, like for ex: int value=26)
 
 - Print each variable's value on a new line.
 
-### Incorrect values provided
+## Incorrect values provided
 
 - `int: 26.0`
 - `float: 3._1415`
 - `double: 23.411f`
 - `String: 'WritingCleanerCode'`
 
-### Hint
+## Hint
 
 - `int` should contain a whole number.
 

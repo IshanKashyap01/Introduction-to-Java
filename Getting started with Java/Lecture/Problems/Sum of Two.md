@@ -4,20 +4,20 @@
 
 Write a Java program that calculates and print the sum of two integers 'a' and 'b'.
 
-### Instructions
+## Instructions
 
 1. We have already declared an integer variables named a and b.
 
 2. You have to print the sum.
 
-### Detailed Explanation
+## Detailed Explanation
 
-#### Input format
+### Input format
 
 The first line of the input contains an integer "a".
 The Second line of the input contains an integer "b".
 
-#### Output format
+### Output format
 
 The first line of the output should print the sum.
 
