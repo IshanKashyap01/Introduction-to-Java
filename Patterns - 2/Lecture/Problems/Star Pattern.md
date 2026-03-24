@@ -1,5 +1,53 @@
 # Star Pattern
 
+## Problem Statement
+
+Print the following pattern
+
+Pattern for N = 4
+
+```ltf
+    *
+   *** 
+  *****
+ *******
+```
+
+**Hint**: As taught in the video, you just have to modify the code so that
+instead of printing numbers, it should output stars ('*').
+
+## Detailed Explanation
+
+### Input Format
+
+N (Total no. of rows)
+
+### Output Format
+
+Pattern in N lines
+
+### Constraints
+
+$0 <= N <= 50$
+
+```ltf
+Sample Input 1:
+3
+Sample Output 1:
+   *
+  *** 
+ *****
+Sample Input 2:
+4
+Sample Output 2:
+    *
+   *** 
+  *****
+ *******
+```
+
+## Solution
+
 ```Java
 import java.util.Scanner;
 
