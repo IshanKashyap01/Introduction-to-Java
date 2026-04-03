@@ -76,3 +76,6 @@ public class Solution
     }
 }
 ```
+
+**Note**: In the swapping function above, if both indices are same, then
+mathematical swap will change the value to zero.
